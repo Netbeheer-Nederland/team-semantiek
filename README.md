@@ -1,3 +1,3 @@
 # Team Semantiek
 
-![OGSM](ogsm.svg)
+<img src="ogsm.svg">
